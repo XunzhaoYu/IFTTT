@@ -20,6 +20,6 @@ Users can create tasks consisting of a THIS event and a THAT event. Therefore, a
   2. Send a pre-edited email to a pre-defined email address at the time given by a timer.
   3. Publish a pre-edited blog when a given email address receives an email.
   4. Send a pre-edited email to a pre-defined email address 'A' when a given email address 'B' receives an email.
-![alt text](https://github.com/XunzhaoYu/IFTTT/blob/master/examples/Create_new_Task.png)
+<img src="https://github.com/XunzhaoYu/IFTTT/blob/master/examples/Create_new_Task.png" width="75%">
 
      
