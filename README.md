@@ -4,11 +4,15 @@ Weibo APIs are invoked to publish blogs.
 GMail APIs are invoked to receive and send emails.  
 <img src="https://github.com/XunzhaoYu/IFTTT/blob/master/examples/Initial_GUI.png" width="75%">
 
+
+
 Memu: Task, Control, Help.  
 Tasks: Create a task, Modify a task, Delete a task, View all tasks.  
 <img src="https://github.com/XunzhaoYu/IFTTT/blob/master/examples/Memu_Task.png" width="75%">   
-Control: Start, Pause, End a task.
+Control: Start, Pause, End a task.  
 <img src="https://github.com/XunzhaoYu/IFTTT/blob/master/examples/Memu_Control.png" width="75%">
+
+
 
 THIS events includes:
   1. Set a Timing;
@@ -17,6 +21,8 @@ THIS events includes:
 THAT events includes:
   1. Publish a Sina blog;
   2. Send an email.
+
+
 
 Users can create tasks consisting of a THIS event and a THAT event. Therefore, a task can be:
   1. Publish a pre-edited blog at the time given by a timer.
