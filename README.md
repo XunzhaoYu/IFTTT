@@ -3,13 +3,13 @@ An offline IFTTT application with GUI platform (in Chinese).
 
 ![alt text](https://github.com/XunzhaoYu/IFTTT/blob/master/examples/Initial_GUI.png)
 
-Memu: Task, Control, Help.
-Tasks: Create a task, Modify a task, Delete a task, View all tasks.
+Memu: Task, Control, Help. \\
+Tasks: Create a task, Modify a task, Delete a task, View all tasks. \\
 Control: Start, Pause, End a task.
 
 THIS events includes:
   1. Set a Timing;
-  2. Receive an email.
+  2. Receive an email. \\
 THAT events includes:
   1. Publish a Sina blog;
   2. Send an email.
