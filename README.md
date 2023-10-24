@@ -6,7 +6,7 @@ GMail APIs are invoked to receive and send emails.
 
 Memu: Task, Control, Help.  
 Tasks: Create a task, Modify a task, Delete a task, View all tasks.  
-<img src="https://github.com/XunzhaoYu/IFTTT/blob/master/examples/Memu_Task.png" width="75%">
+<img src="https://github.com/XunzhaoYu/IFTTT/blob/master/examples/Memu_Task.png" width="75%">   
 Control: Start, Pause, End a task.
 <img src="https://github.com/XunzhaoYu/IFTTT/blob/master/examples/Memu_Control.png" width="75%">
 
