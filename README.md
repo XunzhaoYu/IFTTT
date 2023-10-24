@@ -1,8 +1,7 @@
 # IFTTT
 An offline IFTTT application with GUI platform (in Chinese).
 
-<img src="[https://github.com/favicon.ico](https://github.com/XunzhaoYu/IFTTT/blob/master/examples/Initial_GUI.png)" width="100">
-![alt text](https://github.com/XunzhaoYu/IFTTT/blob/master/examples/Initial_GUI.png | width=100)
+<img src="https://github.com/XunzhaoYu/IFTTT/blob/master/examples/Initial_GUI.png" width="75%">
 
 Memu: Task, Control, Help.  
 Tasks: Create a task, Modify a task, Delete a task, View all tasks.  
